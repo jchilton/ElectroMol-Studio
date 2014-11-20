@@ -1,4 +1,4 @@
-ElectroMol-Studio
+ElectroMol Studio
 =================
 
 The Photoshop of in-silico molecular chemistry.
