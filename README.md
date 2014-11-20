@@ -7,10 +7,15 @@ Designed to be accessible and useful to everyone from high school chemistry stud
 
 Important information will bubble up to this ReadMe. For now, please look at the Milestones section.
 
-The impetus for this tool is a need for a repeatable procedure to design therapies to effectively prevent carcinogen-induced cancers.
-
-Design goals:
-
+Design goals
+------------
 * A single portable executable Java JAR file, no install or external libraries necessary
 * Does not require administrator privileges
 * Not really a design goal, but it's dedicated to the public domain (http://unlicense.org)
+
+Impetus
+-------
+I believe that this tool will help me to implement a repeatable formula for developing effective cancer-prevention therapies, at least for most cancers caused by carcinogens (as opposed to natural cell breakdown:
+* identify oncogene of a type of cancer I want to prevent
+* identify a carcinogen that binds to the oncogene
+* develop a non-carcinogenic medicine that binds to the oncogene, protecting the oncogene from the carcinogen
