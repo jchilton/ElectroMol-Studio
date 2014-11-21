@@ -12,6 +12,8 @@ Design goals
 * A single portable executable Java JAR file, no install or external libraries necessary
   1. You: not Java! No!
   2. Me: buy me a MacBook Air, then we'll talk about OS X. Free as in freedom means not just the source is free, but that it runs on the computers at public libraries.
+  3. You: I meant Windows!
+  4. Me: roflcopter^2
 * Does not require administrator privileges
 * Not really a design goal, but it's dedicated to the public domain (http://unlicense.org)
 
